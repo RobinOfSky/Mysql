@@ -1,4 +1,8 @@
 # Mysql
+
+### mysql的整体组成
+
+![](https://i.loli.net/2019/05/21/5ce34cbff0f7b98727.jpg)
 对mysql的学习和一些处理错方法
 #### mysql的学习笔记
 
