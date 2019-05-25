@@ -3,9 +3,8 @@
 ### mysql的整体组成
 
 ![](https://i.loli.net/2019/05/21/5ce34cbff0f7b98727.jpg)
-### mysql的整体组成
-
-![](https://i.loli.net/2019/05/21/5ce34cbff0f7b98727.jpg)
+### mysql的表空间，段，组，区，表，记录
+![](https://i.loli.net/2019/05/25/5ce8e1360cfac78663.png)
 #### mysql的学习笔记
 
 1. **[mysql的数据类型](https://github.com/RobinOfSky/Mysql/blob/master/MySQL%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)**
